@@ -1,0 +1,5 @@
+By default, the cameras in blender are mirrored around the xz plane so the pose doesn't show by default. You need to open the python editor within blender and type:
+
+$ print(bpy.data.objects["<camera_name>"].matrix_world.to_translation())
+$ print(bpy.data.objects["<camera_name>"].matrix_world.to_rotation())
+
