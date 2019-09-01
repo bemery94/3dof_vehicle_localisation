@@ -8,7 +8,7 @@
 
 * My capstone poster can be found [here](documents/capstone_poster.pptx)
 
-* A video demonstrating the optimisation (Note. that the results shown in this video are old and the current optimisation can handle the "difficult" cases presented in the video. However, the video is added so that the optimisation process can be visualised) can be found [here](documents/capstone_poster_video.mp4)
+* A video demonstrating the optimisation (Note. that the results shown in this video are old and the current optimisation can handle the "difficult" cases presented in the video. However, the video is added so that the optimisation process can be visualised) can be found [here](documents/capstone_poster_video_1.mp4)
 
 ## Folder Structure
 
